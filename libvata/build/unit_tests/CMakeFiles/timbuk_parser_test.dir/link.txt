@@ -1,1 +1,0 @@
-/usr/bin/g++   -O3 -DNDEBUG    CMakeFiles/timbuk_parser_test.dir/timbuk_parser_test.cc.o  -o timbuk_parser_test -rdynamic libtests.a ../src/libvata.a /usr/local/lib/libboost_unit_test_framework.so /usr/local/lib/libboost_filesystem.so /usr/local/lib/libboost_system.so -Wl,-rpath,/usr/local/lib 
